@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Göktuğ Oğuzhan TOPAL</h1>
-  <p>2nd Year Software Engineering Student at Karadeniz Teknik Üniversitesi</p>
+  <p>3nd Year Software Engineering Student at Karadeniz Teknik Üniversitesi</p>
 </p>
 
 <p align="center">
