@@ -47,6 +47,4 @@
 <div align="center">
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=GOTOPAL&color=blueviolet&style=flat-square)
-
 </div>
