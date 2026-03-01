@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:goktugsw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/göktuğ-oğuzhan-topal-774016251/)
-[![GitHub followers](https://img.shields.io/github/followers/GOTOPAL?style=flat-square&logo=github)](https://github.com/GOTOPAL)
+
 
 </div>
 
