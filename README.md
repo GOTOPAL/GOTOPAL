@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4e6f,100:2d8ab0&height=180&section=header&text=G%C3%B6ktu%C4%9F%20O%C4%9Fuzhan%20TOPAL&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20%C3%96%C4%9Frencisi%20%C2%B7%20KT%C3%9C&descAlignY=55&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=1D4E6F&center=true&vCenter=true&width=620&lines=LLM+%C3%BCr%C3%BCnleri+geli%C5%9Ftiriyorum;RAG+ve+ajan+mimarileri;%C3%96l%C3%A7%C3%BClmeyen+%C5%9Fey+iyile%C5%9Ftirilemez" alt="Typing SVG" />
-
-<br/>
-
 <a href="mailto:goktugsw@gmail.com"><img src="https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/g%C3%B6ktu%C4%9F-o%C4%9Fuzhan-topal-774016251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
