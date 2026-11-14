@@ -20,4 +20,11 @@ Büyük dil modelleriyle çalışan ürünler geliştiriyorum.
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cizgi-koyu.svg">
+  <img src="assets/cizgi-acik.svg" width="420" alt="Düşüp kalkan, her seferinde daha yükseğe çıkan bir çizgi">
+</picture>
+
+<br>
+
 </div>
